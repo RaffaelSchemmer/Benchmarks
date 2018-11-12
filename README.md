@@ -11,6 +11,12 @@ sudo script
 ./script
 ```
 
+O script irá executar os seguintes benchmarks:
+
+[1] Maximum CPU Speeds
+
+The programs were written with a view towards demonstrating maximum CPU performance executing all types of arithmetic instructions. The benchmark programs use assembler level instructions, including full SIMD operations where appropriate, to simply add values via 1, 2, 3 and 4 registers of 64 bits. Results are in MIPS and MFLOPS.
+
 The Classic Benchmarks possui 4 clássicos programas de benchmark para CPU sendo eles:
 -----------
 ```
