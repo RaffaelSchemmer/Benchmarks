@@ -1,12 +1,15 @@
 # Benchmarks
 
 In all machines, execute:
-
+```
+sudo apt update
+sudo apt install git -y
 git clone https://github.com/RaffaelSchemmer/Benchmarks.git
 chmod 777 -Rf Benchmarks
-cd Benchmarks 
+cd Benchmarks
 sudo script
 ./script
+```
 
 The Classic Benchmarks possui 4 clássicos programas de benchmark para CPU sendo eles:
 -----------
