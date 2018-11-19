@@ -1,6 +1,6 @@
 # Benchmarks
 
-- [4] Benchmarks INF217
+- Benchmarks INF217
 
 	- Mostrar mecânica da GCP
 	- Mostrar os 5 benchmarks
